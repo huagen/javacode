@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="jol-cli-0.15-sources">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jol-cli-0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jol-core-0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jopt-simple-4.6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/jopt-simple-4.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/jol-cli-0.15-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jol-core-0.15-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jopt-simple-4.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
